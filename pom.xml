@@ -19,13 +19,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.github.sfg-beer-works</groupId>
+        <groupId>com.github.bg-beer-works</groupId>
         <artifactId>sfg-brewery-bom</artifactId>
-        <version>1.0.22</version>
+        <version>1.0.53</version>
     </parent>
 
     <artifactId>sfg-brewery-inventory-service</artifactId>
-    <version>1.0.6-SNAPSHOT</version>
+    <version>1.0.53-SNAPSHOT</version>
 
     <name>SFG Brewery Inventory Service</name>
 
